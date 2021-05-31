@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+    font-family: 'Balsamiq Sans', cursive;
+}
+	
+.container{
+    position: absolute;
+	left:30%;
+	top:20%;
+    height: 500px;
+    width:  500px;
+    background-color: rgb(183, 248, 197);
+    border-radius: 20px;
+}
+
+.adminfrom{
+    position: absolute;
+    margin: 20px;
+}
+.fieldsetclass{
+    padding: 30px;
+    border:2px solid green; 
+    border-radius: 10px;
+}
+.error{
+    color: #FF0000;
+}
+
+.loginfrom{
+    position: absolute;
+    left: 5%;
+}
+.loginsetup{
+    position: absolute;
+    left: 5%;
+}
+
+.sucess{
+    color: rgb(241, 170, 15);
+}
+.message{
+    color: red;
+
+}
+
+
